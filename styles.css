@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, serif;
+    color: palevioletred;
+    background-color: peachpuff;
+}
+
+h1 {
+    text-align: center;
+    background-color: pink
+}
+
+
+table {
+    border: 3px solid magenta;
+    background-image: url('./image.jpeg');
+    color: white;
+    margin: 0 auto;
+
+}
+
+th {
+    text-align: left;
+    border: 1px solid plum
+}
+
